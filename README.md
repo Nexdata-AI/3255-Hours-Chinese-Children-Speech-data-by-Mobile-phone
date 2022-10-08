@@ -1,8 +1,10 @@
 # 3255-Hours-Chinese-Children-Speech-data-by-Mobile-phone
-https://www.datatang.ai/datasets/937
+
 
 ## Description
 Mobile phone captured audio data of Chinese children, with total duration of 3,255 hours. 9,780 speakers are children aged 6 to 12, with accent covering seven dialect areas; the recorded text contains common children languages such as essay stories, numbers, and their interactions on cars, at home, and with voice assistants, precisely matching the actual application scenes. All sentences are manually transferred with high accuracy.
+
+For more details, please refer to the link: https://bit.ly/3fiZ6ix
 
 ## Format
 16kHz/22.05kHz/44.1kHz (mobile phone/microphone), 16bit, uncompressed wav, mono channel
@@ -27,3 +29,6 @@ speech recognition; voiceprint recognition.
 
 ## Accuracy rate
 97% (the accuracy rate of the noise symbols and pinyin is not included)
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
