@@ -31,4 +31,4 @@ speech recognition; voiceprint recognition.
 97% (the accuracy rate of the noise symbols and pinyin is not included)
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
